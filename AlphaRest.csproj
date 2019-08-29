@@ -3,9 +3,17 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Version>3.0.0</Version>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <AssemblyVersion>3.0.0.0</AssemblyVersion>
     <FileVersion>2.0.0.0</FileVersion>
     <Description>Simple upload and save file with api in .net standard</Description>
+    <Copyright>https://github.com/Alibesharat/AlphaRest/blob/master/LICENSE</Copyright>
+    <PackageProjectUrl>https://github.com/Alibesharat/AlphaRest</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Alibesharat/AlphaRest</RepositoryUrl>
+    <RepositoryType></RepositoryType>
+    <PackageTags>api,file,upload,.netcore</PackageTags>
+    <PackageReleaseNotes>add methode to save file in client</PackageReleaseNotes>
+    <NeutralLanguage>en</NeutralLanguage>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
