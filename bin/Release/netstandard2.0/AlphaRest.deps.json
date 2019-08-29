@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "AlphaRest/2.0.0": {
+      "AlphaRest/3.0.0": {
         "dependencies": {
           "Microsoft.AspNet.WebApi.Client": "5.2.7",
           "Microsoft.AspNetCore.Http": "1.0.0",
@@ -1072,7 +1072,7 @@
     }
   },
   "libraries": {
-    "AlphaRest/2.0.0": {
+    "AlphaRest/3.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
