@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ali\\Source\\Repos\\AlphaRestg_project\\AlphaRest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ali\\Source\\Repos\\AlphaRestg_project\\AlphaRest.csproj": {
+      "version": "2.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ali\\Source\\Repos\\AlphaRestg_project\\AlphaRest.csproj",
+        "projectName": "AlphaRest",
+        "projectPath": "C:\\Users\\Ali\\Source\\Repos\\AlphaRestg_project\\AlphaRest.csproj",
+        "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ali\\Source\\Repos\\AlphaRestg_project\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Ali\\Documents\\Localpackage": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
