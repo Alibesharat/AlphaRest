@@ -15,6 +15,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\Ali\source\repos\Nature_Project\AlphaRest\bin\Release\netstandard2.0\AlphaRest.dll" target="lib\netstandard2.0\AlphaRest.dll" />
+    <file src="C:\Users\Ali\source\repos\AlphaRestg_project\bin\Release\netstandard2.0\AlphaRest.dll" target="lib\netstandard2.0\AlphaRest.dll" />
   </files>
 </package>
