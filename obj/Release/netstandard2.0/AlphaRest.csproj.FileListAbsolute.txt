@@ -7,3 +7,12 @@ C:\Users\Ali\source\repos\Nature_Project\AlphaRest\obj\Release\netstandard2.0\Al
 C:\Users\Ali\source\repos\Nature_Project\AlphaRest\obj\Release\netstandard2.0\AlphaRest.AssemblyInfo.cs
 C:\Users\Ali\source\repos\Nature_Project\AlphaRest\obj\Release\netstandard2.0\AlphaRest.dll
 C:\Users\Ali\source\repos\Nature_Project\AlphaRest\obj\Release\netstandard2.0\AlphaRest.pdb
+C:\Users\Ali\Source\Repos\AlphaRestg_project\bin\Release\netstandard2.0\AlphaRest.deps.json
+C:\Users\Ali\Source\Repos\AlphaRestg_project\bin\Release\netstandard2.0\AlphaRest.dll
+C:\Users\Ali\Source\Repos\AlphaRestg_project\bin\Release\netstandard2.0\AlphaRest.pdb
+C:\Users\Ali\Source\Repos\AlphaRestg_project\obj\Release\netstandard2.0\AlphaRest.csprojAssemblyReference.cache
+C:\Users\Ali\Source\Repos\AlphaRestg_project\obj\Release\netstandard2.0\AlphaRest.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Source\Repos\AlphaRestg_project\obj\Release\netstandard2.0\AlphaRest.AssemblyInfoInputs.cache
+C:\Users\Ali\Source\Repos\AlphaRestg_project\obj\Release\netstandard2.0\AlphaRest.AssemblyInfo.cs
+C:\Users\Ali\Source\Repos\AlphaRestg_project\obj\Release\netstandard2.0\AlphaRest.dll
+C:\Users\Ali\Source\Repos\AlphaRestg_project\obj\Release\netstandard2.0\AlphaRest.pdb

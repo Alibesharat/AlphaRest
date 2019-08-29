@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "AlphaRest/1.0.0": {
+      "AlphaRest/2.0.0": {
         "dependencies": {
           "Microsoft.AspNet.WebApi.Client": "5.2.7",
           "Microsoft.AspNetCore.Http": "1.0.0",
@@ -406,7 +406,7 @@
         "runtime": {
           "lib/netstandard1.5/System.ComponentModel.TypeConverter.dll": {
             "assemblyVersion": "4.1.1.0",
-            "fileVersion": "4.6.24702.1"
+            "fileVersion": "4.6.24705.1"
           }
         }
       },
@@ -1072,7 +1072,7 @@
     }
   },
   "libraries": {
-    "AlphaRest/1.0.0": {
+    "AlphaRest/2.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1185,7 +1185,7 @@
     "Newtonsoft.Json/10.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-MOUhQfeI43upq9QiEv+7YYTDQPtEZEj9xB50MgplO1XF/aumP0f+TCYIHpZEmfsiahJJaXt/gdRFYLFEoF2VyQ==",
+      "sha512": "sha512-ebWzW9j2nwxQeBo59As2TYn7nYr9BHicqqCwHOD1Vdo+50HBtLPuqdiCYJcLdTRknpYis/DSEOQz5KmZxwrIAg==",
       "path": "newtonsoft.json/10.0.1",
       "hashPath": "newtonsoft.json.10.0.1.nupkg.sha512"
     },
@@ -1269,7 +1269,7 @@
     "System.ComponentModel.TypeConverter/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-HZiP0DwTHJ+C+rdFqP47nBYUh5283kcwXIGY2zOVVhsJmVI/2tYiX2zNRdjRQRHsTox58Ydkec6h0pWSh8wAsw==",
+      "sha512": "sha512-16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "hashPath": "system.componentmodel.typeconverter.4.3.0.nupkg.sha512"
     },
