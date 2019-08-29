@@ -13,8 +13,9 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlphaRest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Simple upload and save file with api in .net standard")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("2.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("3.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlphaRest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlphaRest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
